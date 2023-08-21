@@ -7,3 +7,4 @@ The script further visualizes the training process through loss and accuracy plo
 The trained model is saved, and its capabilities are
 showcased by making predictions on new images, with the aid of Grad-CAM visualization.
 The heatmap of the image ,image of the heatmap on region of interest and original input is displayed.
+ The code effectively demonstrates preprocessing, model building, training, and prediction in deep learning.

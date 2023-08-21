@@ -1,5 +1,5 @@
 # Cat-Dog-Classification-CNN
-The provided code is a Python script that demonstrates a dog vs. cat image classification using a pre-trained InceptionV3 neural network architecture. 
+The provided code is a Python script that demonstrates a dog vs. cat image classification using a pre-trained InceptionV3 neural network architecture. It imports important modules and necessary deeplearning frameworks such as tensorflow and keras.
 The code begins by extracting a dataset of cat and dog images from a zip file and then displays random images from both categories.
 It then constructs a neural network model by incorporating the InceptionV3 architecture, fine-tuning it for
 the classification task. Data augmentation techniques are applied to enhance the model's performance. 
